@@ -52,7 +52,7 @@
         <mxCell id="7lz_pRhR5QczUbqz9TZB-11" value="owner_id:int&amp;nbsp; FK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VkOP3rbDhyCKNE1CwJHu-15">
           <mxGeometry y="160" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7lz_pRhR5QczUbqz9TZB-39" value="owner_company_id:int&amp;nbsp; FK" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VkOP3rbDhyCKNE1CwJHu-15">
+        <mxCell id="7lz_pRhR5QczUbqz9TZB-39" value="owner_company_id:int&amp;nbsp; FK" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VkOP3rbDhyCKNE1CwJHu-15">
           <mxGeometry y="186" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7lz_pRhR5QczUbqz9TZB-6" value="expenses_detail" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
